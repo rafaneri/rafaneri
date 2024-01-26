@@ -19,6 +19,10 @@ My last years of work have been dedicated to using technology as a means to crea
 * 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on IoT and embedded projects
 
+
+<a href="https://www.github.com/rafaneri" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rafaneri?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
+
 ## Skills
 
 <p align="left">
