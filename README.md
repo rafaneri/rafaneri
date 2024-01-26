@@ -1,18 +1,3 @@
-<!--
-**rafaneri/rafaneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <a href="http://www.github.com/rafaneri"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rafaneri&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="rafaneri's GitHub stats" /></a>
 
 <a href="http://www.github.com/rafaneri"><img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaneri&stroke=444e59&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=444e59&currStreakLabel=0f172a&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
@@ -25,6 +10,8 @@ Hi 👋 I'm Rafa Neri
 
 System Architect, Full-stack Developer & IoT Enthusiast
 -------------------------------------------------------
+
+My last years of work have been dedicated to using technology as a means to create new creative business in the healthcare sector, enabling increased access for the Brazilian population to private services. During this period, I have been enhancing my experience in developing scalable and performant applications that can evolve into microservices as it makes sense. A significant portion of these projects involves integration between different payment gateways, such as PagSeguro and Mercado Pago, providing me with an excellent background in the entire lifecycle of the payment process in mobile applications.
 
 * 🌍  I'm based in Salvador, Bahia
 * ✉️  You can contact me at [rafael.neri@gmail.com](mailto:rafael.neri@gmail.com)
