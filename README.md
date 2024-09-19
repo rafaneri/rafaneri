@@ -12,7 +12,7 @@ My last years of work have been dedicated to using technology as a means to crea
 
 * 🌍  I'm based in Salvador, Bahia
 * ✉️  You can contact me at [rafael.neri@gmail.com](mailto:rafael.neri@gmail.com)
-* 🚀  I'm currently working on [Quali](http://www.qualivida.com.br)
+* 🚀  I'm currently working on [PicPay 💚](http://www.picpay.com)
 * 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on IoT and embedded projects
 
