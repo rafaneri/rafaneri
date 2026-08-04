@@ -33,14 +33,13 @@ src="https://img.shields.io/github/followers/rafaneri?logo=github&style=for-the-
   <a href="https://www.linkedin.com/in/rafael-neri-13053526" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/rafael_neri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 </td>
 <td valign="top" width="441">
-<a href="http://www.github.com/rafaneri"><img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=rafaneri&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="rafaneri's GitHub stats" /></a>
+<a href="https://github.com/rafaneri"><img width="100%" align="right" src="https://github-stats-extended.vercel.app/api?username=rafaneri&show_icons=true&title_color=0f172a&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true" alt="rafaneri's GitHub stats" /></a>
 
 <a href="http://www.github.com/rafaneri"><img width="100%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaneri&stroke=444e59&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=444e59&currStreakLabel=0f172a&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
-<a href="https://github.com/rafaneri" align="left"><img width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaneri&langs_count=10&title_color=0f172a&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/rafaneri" align="left"><img width="100%" align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaneri&langs_count=10&title_color=0f172a&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" /></a>
 </td>
 </tr>
 </table>
-
 
 
